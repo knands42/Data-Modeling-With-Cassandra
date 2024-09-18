@@ -1,6 +1,6 @@
 # Data-Modeling-With-Cassandra
-Build a simple ETL and model a few cassandra databases to recieve this values and query from it
 
+Resolution of the first project `Data Modeling (with Apache Cassandra)` from [Data Engineering with AWS](https://www.udacity.com/enrollment/nd027) from [Udacity](https://www.udacity.com/).
 
 ### Project Overview 
 
